@@ -13,4 +13,6 @@ int main() {
     else{
         printf("Number 2 and 3 both are not divible");
     }
+    return 0;
+
 }
